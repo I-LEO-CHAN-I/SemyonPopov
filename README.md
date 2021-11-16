@@ -1,5 +1,5 @@
 - Hello there! I am Leo, a guy that just started to learning programming.
-- Real name - Simon (Well, Simon is not so correct. On my native language my name may sounds funny for you, so, let's stop on "Simon")
+- Real name - Semyon or Simon (Fun fact, on my native language my name writes like "semen")
 - I am a little stupid, so teach me some things, if you want to.
 - And, as you can see, I bad know English :)
 - Зато Русский знаю неплохо. Не буду против, если будете давать советы именно на нём.
