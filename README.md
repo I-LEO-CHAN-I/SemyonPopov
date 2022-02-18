@@ -2,7 +2,7 @@
 - Main programming language for now - C++
 - Real name - Semyon or Simon
 - I am a little stupid, so teach me some things, if you want to.
-- And, as you can see, I bad know English :)
+- To tell the truth, I bad know English :)
 - Зато Русский знаю неплохо. Не буду против, если будете давать советы именно на нём.
 
 <!---
